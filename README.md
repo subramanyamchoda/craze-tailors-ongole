@@ -62,7 +62,7 @@ Shop No. 126, 1st Floor, Sri Bapuji Market Complex, Ongole
 ## ⚙️ Installation (Dev Setup)
 
 ```bash
-git clone https://github.com/yourusername/craze-tailors-ongole.git
+git clone https://github.com/subramanyamchoda/craze-tailors-ongole.git
 cd craze-tailors-ongole
 npm install
 npm run dev
