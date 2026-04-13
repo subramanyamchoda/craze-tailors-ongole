@@ -2,8 +2,9 @@
 
 Welcome to the official website for **Craze Tailors**, a family-run tailoring shop located in **Sri Bapuji Market Complex, Ongole**. This project was built to support my dad’s tailoring business by creating an online presence with a clean and modern interface.
 
-![Homepage Screenshot](public/ss-home.jpg)
-![Contact Page Screenshot](public/ss-contact.jpg)
+![Homepage Screenshot](https://raw.githubusercontent.com/subramanyamchoda/craze-tailors-ongole/main/public/home.png)
+
+![Contact Page Screenshot](https://raw.githubusercontent.com/subramanyamchoda/craze-tailors-ongole/main/public/about.png)
 
 ---
 
