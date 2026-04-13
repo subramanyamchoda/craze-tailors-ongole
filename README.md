@@ -31,7 +31,7 @@ Craze Tailors is known for expert craftsmanship in stitching **custom shirts, pa
 
 | Home Page | Contact Page |
 |-----------|--------------|
-| ![Home](public/ss-home.jpg) | ![Contact](public/ss-contact.jpg) |
+| ![Homepage Screenshot](https://raw.githubusercontent.com/subramanyamchoda/craze-tailors-ongole/main/public/home.png) | ![Contact Page Screenshot](https://raw.githubusercontent.com/subramanyamchoda/craze-tailors-ongole/main/public/about.png) |
 
 > (You can replace these with actual screenshots after deployment)
 
